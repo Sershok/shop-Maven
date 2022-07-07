@@ -1,0 +1,101 @@
+[
+  {
+    "name": "T-short",
+    "manufacturer": "NaRu",
+    "color": "White",
+    "size": "XL",
+    "price": 14.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "NewRed",
+    "color": "Black",
+    "size": "M",
+    "price": 12.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "NewRed",
+    "color": "Red",
+    "size": "L",
+    "price": 12.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "NewRed",
+    "color": "Yellow",
+    "size": "M",
+    "price": 12.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "NaRu",
+    "color": "Blue",
+    "size": "M",
+    "price": 14.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "DDB",
+    "color": "Orange",
+    "size": "M",
+    "price": 15.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "DDB",
+    "color": "Green",
+    "size": "M",
+    "price": 14.00
+  },
+  {
+    "name": "T-short",
+    "manufacturer": "",
+    "color": "Blue",
+    "size": "M",
+    "price": 13.00
+  },
+  {
+    "name": "Cap",
+    "manufacturer": "Lister",
+    "color": "Blue",
+    "size": "M",
+    "price": 7.00
+  },
+  {
+    "name": "Cap",
+    "manufacturer": "Lister",
+    "color": "Yellow",
+    "size": "XL",
+    "price": 7.00
+  },
+  {
+    "name": "Cap",
+    "manufacturer": "Sky&Spy",
+    "color": "Blue",
+    "size": "L",
+    "price": 9.00
+  },
+  {
+    "name": "Cap",
+    "manufacturer": "Sky&Spy",
+    "color": "Red",
+    "size": "M",
+    "price": 9.00
+  },
+  {
+    "name": "Cap",
+    "manufacturer": "Problem.ua",
+    "color": "Black",
+    "size": "M",
+    "price": 6.00
+  },
+  {
+    "name": "Cap",
+    "manufacturer": "Shershok",
+    "color": "White",
+    "size": "M",
+    "price": 6.00
+  }
+
+]
